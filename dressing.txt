@@ -1,0 +1,12 @@
+true
+9 
+watch jacket tie shirt pants belt socks shoes undershorts 
+undershorts -> pants 
+pants -> belt
+undershorts -> shoes
+pants -> shoes
+belt -> jacket
+shirt -> belt
+shirt -> tie
+tie -> jacket
+socks -> shoes 

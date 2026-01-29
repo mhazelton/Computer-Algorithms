@@ -1,0 +1,16 @@
+false
+12 
+A B C D E F G H I J K L 
+A - B 
+A - C
+A - D 
+B - E
+B - F 
+C - F
+D - G 
+D - H
+G - H
+K - L
+E - I 
+E - J
+I - J 
